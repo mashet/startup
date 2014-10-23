@@ -1,0 +1,4 @@
+startup
+=======
+
+tiny startup test
